@@ -1,5 +1,5 @@
-# streetLabel
-streetLabel adds a slick UI on the bottom of your players display showing various information about their location on the HUD. This mod was inspired by **[Lt. Caine](https://www.gta5-mods.com/users/LtCine)**'s most popular client side mod known as **[Player Location Display](https://www.gta5-mods.com/scripts/player-location-display-v3-50)**.
+# esx_streetlabel
+esx_streetlabel adds a slick UI on the bottom of your players display showing various information about their location on the HUD. This mod was inspired by **[Lt. Caine](https://www.gta5-mods.com/users/LtCine)**'s most popular client side mod known as **[Player Location Display](https://www.gta5-mods.com/scripts/player-location-display-v3-50)**.
 
 ### Preview
 ![streetlabel-preview](https://i.imgur.com/0B7OxoA.png)
